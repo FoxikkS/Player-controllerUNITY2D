@@ -72,4 +72,5 @@ Notes
 - Make sure to tag all ground objects with **"Ground"** for collision detection.
 - Ensure the `UserInterface` script is assigned, or add a null check in the code to avoid runtime errors.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+© 2024 FoxKK - Developer Portfolio 
